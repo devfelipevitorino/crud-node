@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Banco de dados local (se existir)
+*.local
+*.swo
+*.swp
+
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos do EJS (caso compile ou mova para pasta pública depois)
+*.ejs~
+
+# Arquivos de build (se for usar futuramente)
+dist/
+build/
